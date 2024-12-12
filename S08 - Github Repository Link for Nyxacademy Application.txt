@@ -1,0 +1,3 @@
+Github Repository Link for Nyxacademy Application
+
+The code for the sample application "NyxAcademy" can be found in the GitHub repository linked below: https://github.com/thinknyx-technologies-llp/NyxAcademy
